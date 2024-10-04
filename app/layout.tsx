@@ -11,9 +11,8 @@ const spaceGrotesk = Space_Grotesk({
 })
 
 export const metadata: Metadata = {
-	title: 'FaeDigital',
-	description:
-		'FaeDigital is a website that allows you to create your own website',
+	title: 'Light Test',
+	description: 'This is just a theme switching test',
 	icons: {
 		icon: '/logo.svg'
 	}
